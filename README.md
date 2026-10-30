@@ -40,7 +40,7 @@ A couple other directions I keep coming back to, none of them worked out yet: in
 
 ## Files
 
-`cryptex.stl` is the Fusion 360 model, with all the dimensions as user parameters, so changing one updates everything downstream. It's also where the interference checks and the motion study live, and it's what the exports below come from. `print_ready/` is what you slice: the shell, the vault, the 4 wheels, and the retaining collar, exported straight from that model. `assembled_view/closed/` and `assembled_view/open/` are the same parts pre-positioned so you can see how it all fits together without building anything.
+`cryptex.stl` is the Fusion 360 model, with all the dimensions as user parameters, so changing one updates everything downstream. 
 
 ## Printing
 
